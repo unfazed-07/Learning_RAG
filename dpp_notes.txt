@@ -1,0 +1,5 @@
+Azure Cosmos DB is a globally distributed NoSQL database.
+
+Azure Synapse Analytics is used for data warehousing and analytics.
+
+Azure Blob Storage is used to store unstructured data.
